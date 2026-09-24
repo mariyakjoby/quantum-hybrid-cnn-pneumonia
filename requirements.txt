@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+torch
+pennylane
+pillow
+scikit-learn
+kagglehub
+jupyter
+notebook
