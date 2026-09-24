@@ -22,7 +22,7 @@ chest_xray/
 *.ckpt
 
 # Experiment outputs
-results/
+results/*.pt
 outputs/
 
 # OS
